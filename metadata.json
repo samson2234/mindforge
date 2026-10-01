@@ -1,0 +1,6 @@
+{
+  "name": "MindForge",
+  "description": "MindForge - Train your brain. Think sharper. A cognitive training game starting with high-focus pattern recognition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
